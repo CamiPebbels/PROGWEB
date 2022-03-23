@@ -84,20 +84,18 @@ a{
     text-align: center;
 }
 .li1{
-    text-align: left;  
+    text-align: left;
+    color: black;
 
 }
 .li2{
     text-align: center;
+    color: #a2a8d3;
     
 
 }
 .li3{
     text-align: right;
-
-}
-.text{
-list-style: none;
-display: inline;
+    color: azure;
 
 }
